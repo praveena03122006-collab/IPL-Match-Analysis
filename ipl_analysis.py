@@ -1,9 +1,5 @@
-import pandas as pd
+git init
 
-# Read the CSV file
-df = pd.read_csv("matches.csv")
 
-# Export cleaned data
-df.to_csv("cleaned_ipl_data.csv", index=False)
 
-print("Cleaned data exported successfully!")
+git config --global user.name "Parveen Praveen"git config --global user.name "Parveen Praveen"
